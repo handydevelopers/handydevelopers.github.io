@@ -791,6 +791,12 @@ label {
    
   
 }
+
+.goodPost {
+    margin-bottom: 10px;
+    margin-top: 25px;
+    min-height: 250px !important;
+}
 /*.container:before, container:after {
     display: table;
     line-height: 0px;
